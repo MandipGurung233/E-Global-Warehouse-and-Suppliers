@@ -1,0 +1,49 @@
+E-GlOBAL INFORMATION SYSTEM VERSION 1.0
+
+FREQUENTLY ASKED QUESTION (FAQ) 
+
+1)I am not able to view userManual..What should i do ?
+
+=> please update the system to the latest 
+   version 1.1 or contact customer service.
+
+
+2)Why i am not able to exit the system on clicking cross on the 
+  top right hand side ?
+
+=> The cross button has been made disable because if the file
+   has not been saved then if this button has been made working then it
+   would not ask user if you want to save data or not. We will improve this
+   feature in our next version as this features has been identified ineffective.
+
+
+3)Do clear table button delete data from database ?
+
+=> No, clear table button will not delete data from database, it will clear only 
+   table. Particular row has to be selected from the table.
+
+
+4)Do delete data button delete data from database at once ?
+
+=> No, delete data button will not delete data from database at once, Particular 
+   row has to be selected from the table.
+
+
+5) Why system is not able to delete data from database at once ?
+
+=> We will improve this features in our next version.
+
+
+6) How many rows of data can be displayed in table ?
+
+=> Only 15 rows of data can be displayed in table. 
+
+
+7) What will happen if file other than .txt or .csv is loaded in table ?
+
+=> Files other than .txt or .csv won't be loaded  in the table.
+
+
+8) What if file containing more than 15 row is loaded in table ?
+
+=> Data upto 15 rows will only be loaded in table.

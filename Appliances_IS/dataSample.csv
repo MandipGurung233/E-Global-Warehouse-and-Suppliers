@@ -1,0 +1,15 @@
+mo001,Samsung,Mobile,Low (Six Months),10,12000,5
+sp001,Xiaomi,Speaker,Low (Six Months),5,20000,5
+ai001,Carrier,Air Conditioner,Low (Six Months),4,25000,5
+mi001,Convection,Micro Oven,Low (Six Months),5,30000,5
+la001,Dell,Laptop,Low (Six Months),10,45000,5
+mo002,Oppo,Mobile,Medium (one year),5,51000,10
+sp002,Saregama,Speaker,Medium (one year),10,55000,10
+mi002,LG,Micro Oven,Medium (one year),5,70000,10
+la002,hp,Laptop,Medium (one year),10,80000,10
+ai002,Rheem,Air Conditioner,Medium (one year),15,90000,10
+sp003,Sony,Speaker,High (two year),5,120000,15
+mo003,iphone-9,Mobile,High (two year),5,121000,15
+mi003,Godrej,Micro Oven,High (two year),5,125000,15
+la003,Acer,Laptop,High (two year),10,150000,15
+ai003,Lennox,Air Conditioner,High (two year),15,170000,15
